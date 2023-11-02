@@ -1,0 +1,12 @@
+Vimarsh Patel (A20513290)
+Toluwani Oyewusi (A20425821)
+
+1. Libraries used:
+    a. Numpy
+    b. Pandas
+    c. Tensorflow
+    d. Keras
+    e. Matplotlib
+    f. SkLearn
+2. Code Implementation : Used different Github sources
+3. Keras Collaborative Filtering Model Code : https://keras.io/examples/structured_data/collaborative_filtering_movielens/

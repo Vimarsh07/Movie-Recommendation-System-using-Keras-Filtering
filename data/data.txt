@@ -1,0 +1,17 @@
+Vimarsh Patel
+A20513290
+
+Toluwani Oyewusi
+A20425821
+
+Project
+CS-577 f22
+
+
+
+
+
+Data Link : https://grouplens.org/datasets/movielens/
+Gdrive Dataset link : https://drive.google.com/file/d/1OSHCJ6cL-Q_T0HsKt2ix7b5Fh0ByjxA-/view?usp=sharing
+
+I have uploaded the zip folder of the dataset in the folder since it is less than 10MB
